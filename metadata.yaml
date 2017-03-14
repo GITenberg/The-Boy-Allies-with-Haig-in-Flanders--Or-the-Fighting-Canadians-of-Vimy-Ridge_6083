@@ -1,5 +1,8 @@
 _repo: The-Boy-Allies-with-Haig-in-Flanders--Or-the-Fighting-Canadians-of-Vimy-Ridge_6083
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hayes, Clair W. (Clair Wallace)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1939
 description: Hal and Chester undertake a number of missions in Europe just after the
   Americans enter World War I.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6083#The-Boy-Allies-with-Haig-in-Flanders--Or-the-Fighting-Canadians-of-Vimy-Ridge
 gutenberg_bookshelf:
 - Children's Book Series
 - World War I
